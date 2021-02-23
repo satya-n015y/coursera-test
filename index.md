@@ -1,1 +1,10 @@
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello All!</title>
+    </head>
+    <body>
+        <h1>Welcome All What ya'll doin'</h1>
+    </body>
+</html>
